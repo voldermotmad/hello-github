@@ -1,2 +1,2 @@
 # hello-github
-want to learn you
+want to learn you and get things started 
